@@ -9,7 +9,7 @@ export default function AboutPage() {
         <div className='flex-1 bg-white/5 border border-white/10 rounded-2xl shadow-[0_0_25px_rgba(34,211,238,0.25)] hover:shadow-[0_0_40px_rgba(34,211,238,0.4)] transition-shadow duration-300 backdrop-blur'>
           {/* Header + About text */}
           <div className='px-8 pt-8 pb-6 flex flex-col gap-6'>
-            <h1 className='text-4xl lg:text-5xl font-serif font-bold text-white mb-4'>
+            <h1 className='text-5xl font-serif font-bold text-white mb-4'>
               <span className='underline underline-offset-8 decoration-cyan-400'>
                 About Me
               </span>
